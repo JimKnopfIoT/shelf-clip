@@ -1,5 +1,5 @@
-# Shelf-plug-in-holder
-3D printable Shelf plug-in holder (OBI Regal). Created witih Rhino 6.
+# Shelf clip
+3D printable shelf plug-in clip (OBI Regal). Created witih Rhino 6.
 
 Requirements:
 * 3D printer 
