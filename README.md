@@ -17,7 +17,6 @@ Requirements:
 ![Example](20190730-DSC03893.jpg)
 ![Example](20190730-DSC03894.jpg)
 ![Example](20190730-DSC03895.jpg)
-![Example](20190730-DSC03897.jpg)
 ![Example](20190730-DSC03901.jpg)
 ![Example](20190824_100510.jpg)
 
