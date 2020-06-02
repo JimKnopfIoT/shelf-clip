@@ -7,18 +7,18 @@ Requirements:
 * Filament of your choice
 
 ## View
-![Example](side.jpg)
-![Example](iso1.jpg)
-![Example](iso2.jpg)
-![Example](top.jpg)
-![Example](iso-hook.jpg)
-![Example](iso-back-clip.jpg)
-![Example](20190730-DSC03890.jpg)
-![Example](20190730-DSC03893.jpg)
-![Example](20190730-DSC03894.jpg)
-![Example](20190730-DSC03895.jpg)
-![Example](20190730-DSC03901.jpg)
-![Example](20190824_100510.jpg)
+<img src="side.jpg" width="500" align="center"> 
+<img src="iso1.jpg" width="500" align="center"> 
+<img src="iso2.jpg" width="500" align="center"> 
+<img src="top.jpg" width="500" align="center"> 
+<img src="iso-hook.jpg" width="500" align="center"> 
+<img src="iso-back-clip.jpg" width="500" align="center"> 
+<img src="20190730-DSC03890.jpg" width="500" align="center"> 
+<img src="20190730-DSC03893.jpg" width="500" align="center"> 
+<img src="20190730-DSC03894.jpg" width="500" align="center"> 
+<img src="20190730-DSC03895.jpg" width="500" align="center"> 
+<img src="20190730-DSC03901.jpg" width="500" align="center"> 
+<img src="20190824_100510.jpg" width="500" align="center"> 
 
 ## Tipp
 I highly recommend to print brim. I needed 18 lines of brim to sucessfully print.
